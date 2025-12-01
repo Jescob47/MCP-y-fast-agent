@@ -14,3 +14,6 @@ En este video aprenderás:
 - Python 3.10+
 - PostgreSQL configurado
 - Claude Desktop instalado
+
+Youtube:
+https://youtu.be/bj9QVhjwiDo
