@@ -4,4 +4,4 @@ mcp:
   servers:
     postgres:
       command: "npx"
-      args: ["-y", "@modelcontextprotocol/server-postgres", "postgresql://postgres:########/postgres"]
+      args: ["-y", "@modelcontextprotocol/server-postgres", "postgresql://####:########/postgres"]
